@@ -42,6 +42,18 @@ WindTurbineDamageDetection/
 * dataset.py: Python script defining the custom dataset class (CustomDataset) for loading images and annotations.
 * train.py: Main script for training the CNN model using PyTorch.
 
+# Organizing the Data
+
+### Gathering Images
+
+Images for training were sourced from online repositories and search engines, focusing on wind turbine damage scenarios. These images were manually categorized into folders under **Data images/** based on the type of damage depicted.
+
+### Annotating Images
+
+To prepare the dataset for training, the LabelIMG repository was cloned and utilized. This tool allows for the annotation of images by drawing bounding boxes around areas of damage. Annotations were saved in JSON format corresponding to each image category (cracks, LE Erosion, Lightening, VG Panel) within the **annotations/** folder.
+
+To combine these individual JSON files into a unified dataset, the `combinejsonfiles.py` script was executed. This script merged annotations from all categories into a single `annotations.json` file, assigning unique IDs to each image for consistency during training.
+
 ## Usage
 
 ### 1. Combining Annotations
