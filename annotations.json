@@ -1,0 +1,369 @@
+{
+    "images": [
+        {
+            "image": "WIND_Ping_RootCrack.jpg",
+            "verified": false,
+            "annotations": [
+                {
+                    "label": "crack",
+                    "coordinates": {
+                        "x": 909.7777777777778,
+                        "y": 503.0,
+                        "width": 262.0,
+                        "height": 173.0
+                    }
+                }
+            ],
+            "id": 1
+        },
+        {
+            "image": "cw-may-18-wbi-fig-2b-shellfracturesperformancecomposites.jpg;width=860.jpeg",
+            "verified": false,
+            "annotations": [
+                {
+                    "label": "crack",
+                    "coordinates": {
+                        "x": 315.07894736842104,
+                        "y": 412.7368421052631,
+                        "width": 254.0,
+                        "height": 222.0
+                    }
+                }
+            ],
+            "id": 2
+        },
+        {
+            "image": "6-Figure3-1.png",
+            "verified": false,
+            "annotations": [
+                {
+                    "label": "crack",
+                    "coordinates": {
+                        "x": 911.9198473282443,
+                        "y": 294.09160305343516,
+                        "width": 296.9999999999999,
+                        "height": 472.0
+                    }
+                },
+                {
+                    "label": "crack",
+                    "coordinates": {
+                        "x": 552.9198473282444,
+                        "y": 304.09160305343516,
+                        "width": 339.00000000000006,
+                        "height": 462.0
+                    }
+                },
+                {
+                    "label": "crack",
+                    "coordinates": {
+                        "x": 260.4198473282443,
+                        "y": 281.59160305343516,
+                        "width": 82.0,
+                        "height": 513.0
+                    }
+                }
+            ],
+            "id": 3
+        },
+        {
+            "image": "stock-photo-cracks-in-concrete-wind-turbine-foundation-674923978.jpg",
+            "verified": false,
+            "annotations": [
+                {
+                    "label": "crack",
+                    "coordinates": {
+                        "x": 211.79411764705884,
+                        "y": 694.0882352941176,
+                        "width": 179.0,
+                        "height": 680.0
+                    }
+                },
+                {
+                    "label": "crack",
+                    "coordinates": {
+                        "x": 531.7941176470588,
+                        "y": 754.0882352941176,
+                        "width": 224.99999999999994,
+                        "height": 696.0
+                    }
+                },
+                {
+                    "label": "crack",
+                    "coordinates": {
+                        "x": 1091.2941176470588,
+                        "y": 620.5882352941177,
+                        "width": 730.0,
+                        "height": 415.00000000000006
+                    }
+                }
+            ],
+            "id": 4
+        },
+        {
+            "image": "Possible_crack_GlGDCPLjT.png.webp",
+            "verified": false,
+            "annotations": [
+                {
+                    "label": "crack",
+                    "coordinates": {
+                        "x": 425.0980392156863,
+                        "y": 126.0294117647059,
+                        "width": 70.0,
+                        "height": 153.0
+                    }
+                }
+            ],
+            "id": 5
+        },
+        {
+            "image": "Unknown.jpeg",
+            "verified": false,
+            "annotations": [
+                {
+                    "label": "crack",
+                    "coordinates": {
+                        "x": 137.6,
+                        "y": 77.19999999999999,
+                        "width": 242.8,
+                        "height": 124.99999999999999
+                    }
+                }
+            ],
+            "id": 6
+        },
+        {
+            "image": "Large-transverse-cracks-observed-on-wind-turbine-blades-a-A-transverse-crack-in.png",
+            "verified": false,
+            "annotations": [
+                {
+                    "label": "crack",
+                    "coordinates": {
+                        "x": 310.6470588235294,
+                        "y": 199.79411764705878,
+                        "width": 424.0,
+                        "height": 125.99999999999997
+                    }
+                }
+            ],
+            "id": 7
+        },
+        {
+            "image": "erosion.png",
+            "verified": false,
+            "annotations": [
+                {
+                    "label": "erosion",
+                    "coordinates": {
+                        "x": 642.6601941747574,
+                        "y": 579.3349514563107,
+                        "width": 150.0,
+                        "height": 841.0
+                    }
+                }
+            ],
+            "id": 8
+        },
+        {
+            "image": "Example-of-leading-edge-erosion-Source-14.jpg",
+            "verified": false,
+            "annotations": [
+                {
+                    "label": "erosion",
+                    "coordinates": {
+                        "x": 342.51401869158883,
+                        "y": 241.47196261682245,
+                        "width": 662.0,
+                        "height": 174.0
+                    }
+                }
+            ],
+            "id": 9
+        },
+        {
+            "image": "leading_edge_erosion_examples.jpg.webp",
+            "verified": false,
+            "annotations": [
+                {
+                    "label": "erosion",
+                    "coordinates": {
+                        "x": 193.72115384615387,
+                        "y": 164.87500000000003,
+                        "width": 348.0,
+                        "height": 40.0
+                    }
+                },
+                {
+                    "label": "erosion",
+                    "coordinates": {
+                        "x": 520.2211538461538,
+                        "y": 88.37500000000003,
+                        "width": 280.99999999999994,
+                        "height": 71.0
+                    }
+                },
+                {
+                    "label": "erosion",
+                    "coordinates": {
+                        "x": 349.22115384615387,
+                        "y": 309.875,
+                        "width": 675.0,
+                        "height": 151.99999999999997
+                    }
+                }
+            ],
+            "id": 10
+        },
+        {
+            "image": "Unknown-1.jpeg",
+            "verified": false,
+            "annotations": [
+                {
+                    "label": "erosion",
+                    "coordinates": {
+                        "x": 120.19999999999999,
+                        "y": 107.60000000000001,
+                        "width": 39.999999999999986,
+                        "height": 162.8
+                    }
+                }
+            ],
+            "id": 11
+        },
+        {
+            "image": "images.jpeg",
+            "verified": false,
+            "annotations": [
+                {
+                    "label": "erosion",
+                    "coordinates": {
+                        "x": 96.01025056947607,
+                        "y": 118.5,
+                        "width": 154.0,
+                        "height": 237.0
+                    }
+                }
+            ],
+            "id": 12
+        },
+        {
+            "image": "Unknowne.jpeg",
+            "verified": false,
+            "annotations": [
+                {
+                    "label": "erosion",
+                    "coordinates": {
+                        "x": 152.08592132505177,
+                        "y": 84.99378881987579,
+                        "width": 291.0,
+                        "height": 86.0
+                    }
+                }
+            ],
+            "id": 13
+        },
+        {
+            "image": "imagesli.jpeg",
+            "verified": false,
+            "annotations": [
+                {
+                    "label": "lightening",
+                    "coordinates": {
+                        "x": 187.7,
+                        "y": 88.2,
+                        "width": 119.0,
+                        "height": 135.0
+                    }
+                }
+            ],
+            "id": 14
+        },
+        {
+            "image": "images-1.jpeg",
+            "verified": false,
+            "annotations": [
+                {
+                    "label": "lightening",
+                    "coordinates": {
+                        "x": 124.4325481798715,
+                        "y": 123.7591006423983,
+                        "width": 56.999999999999986,
+                        "height": 70.00000000000001
+                    }
+                }
+            ],
+            "id": 15
+        },
+        {
+            "image": "Unknownli.jpeg",
+            "verified": false,
+            "annotations": [
+                {
+                    "label": "lightening receptor",
+                    "coordinates": {
+                        "x": 126.69999999999999,
+                        "y": 50.7,
+                        "width": 44.999999999999986,
+                        "height": 31.0
+                    }
+                }
+            ],
+            "id": 16
+        },
+        {
+            "image": "3-Figure6-1.png",
+            "verified": false,
+            "annotations": [
+                {
+                    "label": "lightening",
+                    "coordinates": {
+                        "x": 376.0338164251208,
+                        "y": 289.65217391304344,
+                        "width": 108.0,
+                        "height": 113.99999999999997
+                    }
+                }
+            ],
+            "id": 17
+        },
+        {
+            "image": "Unknownvg.jpeg",
+            "verified": false,
+            "annotations": [
+                {
+                    "label": "vg panel",
+                    "coordinates": {
+                        "x": 134.7,
+                        "y": 110.35000000000001,
+                        "width": 46.999999999999986,
+                        "height": 167.3
+                    }
+                }
+            ],
+            "id": 18
+        }
+    ],
+    "annotations": [],
+    "categories": [
+        {
+            "id": 0,
+            "name": "crack",
+            "supercategory": "none"
+        },
+        {
+            "id": 1,
+            "name": "erosion",
+            "supercategory": "none"
+        },
+        {
+            "id": 2,
+            "name": "lightening",
+            "supercategory": "none"
+        },
+        {
+            "id": 3,
+            "name": "vg panel",
+            "supercategory": "none"
+        }
+    ]
+}
