@@ -2,6 +2,9 @@
 
 # Wind Turbine Damage Detection Project
 
+![Project Title Image](https://raw.githubusercontent.com/LadyEngineerHere/ladyengineerhere-image-resources/main/20201023-title.png)
+
+
 ## Overview
 
 This project aims to develop a deep learning model for detecting various types of damage on wind turbine images. The types of damage include cracks, erosion, lightening, and VG panel damage. The project involves creating a dataset, training a convolutional neural network (CNN) model using PyTorch, and evaluating its performance.
