@@ -46,6 +46,7 @@ WindTurbineDamageDetection/
 * train.py: Main script for training the CNN model using PyTorch.
 
 # Organizing the Data
+![Project Title Image](https://github.com/LadyEngineerHere/ladyengineerhere-image-resources/blob/main/image.png)
 
 ### Gathering Images
 
