@@ -81,6 +81,7 @@ dataset.py contains the CustomDataset class, which loads images and annotations 
 The model was trained using a GoogLeNet architecture, and the dataset was split into training and testing sets. The training process encountered several issues with data batches, leading to some epochs having no valid batches. Below are the results of the model's performance on the training and test sets.
 
 ### Training Results
+![Project Title Image](https://github.com/LadyEngineerHere/ladyengineerhere-image-resources/blob/main/RESULTS.PNG)
 
 - **Accuracy on Training Set:** 17.65% (3 correct predictions out of 17 samples)
 - **Accuracy on Test Set:** 83.33% (5 correct predictions out of 6 samples)
